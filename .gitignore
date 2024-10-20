@@ -27,3 +27,5 @@ go.work.sum
 *.pack
 *.idx
 *.rev
+
+go-packfile-analyzer
